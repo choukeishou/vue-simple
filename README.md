@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-npm install
+npm install  或者解压缩node-modules压缩文件
 
 # serve with hot reload at localhost:8080
 npm run dev
